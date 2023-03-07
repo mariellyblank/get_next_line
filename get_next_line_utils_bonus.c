@@ -1,16 +1,16 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   get_next_line_utils.c                              :+:      :+:    :+:   */
+/*   get_next_line_utils_bonus.c                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: mblank <mblank@student.42lisboa.com>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/12/22 14:07:47 by mblank            #+#    #+#             */
-/*   Updated: 2023/03/05 07:33:13 by mblank           ###   ########.fr       */
+/*   Created: 2023/03/02 15:52:13 by mblank            #+#    #+#             */
+/*   Updated: 2023/03/05 07:32:36 by mblank           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line.h"
+#include "get_next_line_bonus.h"
 
 size_t	ft_strlen(char *s)
 {
